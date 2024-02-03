@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Specify the commit message
+# Specify the commit Message
 commit_message="Just made a push"
 
 # Add changes to the staging area
